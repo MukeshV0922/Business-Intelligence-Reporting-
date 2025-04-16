@@ -46,4 +46,23 @@ This project focuses on commodities and indices, offering a clear analytical vie
 
 ---
 
+## 📷 Screenshots
+
+### 📌 Commodity & Index Dashboard
+![Commodity & Index](https://github.com/MukeshV0922/Business-Intelligence-Reporting-/blob/main/screenshot/Screenshot%202024-12-11%20224025.png)
+
+### 📌 Platinum & Silver Insights
+![Platinum & Silver](https://github.com/MukeshV0922/Business-Intelligence-Reporting-/blob/main/screenshot/Screenshot%202024-12-11%20224045.png)
+
+### 📌 Gold Analysis
+![Gold](https://github.com/MukeshV0922/Business-Intelligence-Reporting-/blob/main/screenshot/Screenshot%202024-12-11%20224111.png)
+
+### 📌 Gold Forecasted Value (2025 & 2026)
+![Gold Forecast](https://github.com/MukeshV0922/Business-Intelligence-Reporting-/blob/main/screenshot/Screenshot%202024-12-11%20224148.png)
+
+### 📌 S&P 500 & NASDAQ Index Overview
+![S&P and NASDAQ](https://github.com/MukeshV0922/Business-Intelligence-Reporting-/blob/main/screenshot/Screenshot%202024-12-11%20224209.png)
+
+---
+
 > This dashboard is intended for educational and analytical use to demonstrate data storytelling and BI reporting for financial markets.
